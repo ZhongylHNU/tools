@@ -1,6 +1,6 @@
 # ppt批量转pdf工具
 
-[返回主索引](https://github.com/ZhongylHNU/tools/blob/master/readme.md)
+[返回主索引](https://github.com/ZhongylHNU/tools)
 
 ## background
 
@@ -18,4 +18,4 @@ tips：
 
 将脚本与需转换文件放置在同一文件夹下，运行即可
 
-[返回主索引](https://github.com/ZhongylHNU/tools/blob/master/readme.md)
+[返回主索引](https://github.com/ZhongylHNU/tools)
